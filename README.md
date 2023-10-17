@@ -1,8 +1,8 @@
-eko-oaas-package TypeScript NPM Package
+kj-Oaas-package TypeScript NPM Package
 
 Description:
 
-Welcome to eko-oaas-package TypeScript NPM package! This package provides onboarding as a service which includes several steps like:
+Welcome to kj-Oaas-package TypeScript NPM package! This package provides onboarding as a service which includes several steps like:
 
 1. Location Capturing
 2. Pan verification
@@ -20,11 +20,11 @@ To install this package, you can use npm.
 
 Run the following command:
 
-npm i 'eko-oaas-package'
+npm i 'kj-Oaas-package'
 
 After installing the package, you can import and use it in your TypeScript project. Here's an example of how to use it:
 
-import { OnBoradingVist, SelectionScreen } from "eko-oaas-package";
+import { OnBoradingVist, SelectionScreen } from "kj-Oaas-package";
 
 <!-- And just use component.  -->
 
@@ -550,6 +550,6 @@ License [MIT]
 
 Git Address: https://github.com/ekoindia/oaas_eko_package
 
-NPM Link: https://www.npmjs.com/package/eko-oaas-package
+NPM Link: https://www.npmjs.com/package/kj-Oaas-package
 
-Thank you for using eko-oaas-package TypeScript NPM package!
+Thank you for using kj-Oaas-package TypeScript NPM package!

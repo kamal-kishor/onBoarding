@@ -1,5 +1,5 @@
 {
-    "name": "tg-oaas-package",
+    "name": "kj-oaas-package",
     "version": "0.0.1",
     "description": "On boarding as a service",
     "main": "dist/index.js",
@@ -17,7 +17,7 @@
         "chromatic": "npx chromatic --project-token=8839761dac56"
     },
     "author": {
-        "name": "jalaj goyal"
+        "name": "Kamal Joshi"
     },
     "license": "MIT",
     "devDependencies": {
