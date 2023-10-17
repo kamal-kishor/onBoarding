@@ -1,6 +1,6 @@
 {
     "name": "kj-oaas-package",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "On boarding as a service",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",

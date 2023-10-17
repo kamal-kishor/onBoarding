@@ -1,1 +1,0 @@
-export { OnBoradingVisht } from './OnBoradingVisht';

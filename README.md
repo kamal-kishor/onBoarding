@@ -548,7 +548,7 @@ Please refer to the project documentation for detailed instructions and code exa
 
 License [MIT]
 
-Git Address: https://github.com/ekoindia/oaas_eko_package
+Git Address: https://github.com/kamal-kishor/onBoarding
 
 NPM Link: https://www.npmjs.com/package/kj-Oaas-package
 
