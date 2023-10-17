@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "lib": ["ES2018", "DOM"],
+        "jsx": "react",
+        "allowJs": true,
+        "module": "ESNext",
+        "declarationDir": "types",
+        "moduleResolution": "node",
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "plugins": [{ "name": "typescript-plugin-css-modules" }],
+        "types": ["node"],
+        "declaration": true,
+        "sourceMap": true,
+        "outDir": "dist/esm",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "noImplicitAny": true,
+        "skipLibCheck": true
+    },
+    "include": ["src/**/*.ts", "src/**/*.tsx", "jest.config.ts"],
+    "exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1679557849091" clover="3.2.0">
+  <project timestamp="1679557849092" name="All files">
+    <metrics statements="48" coveredstatements="45" conditionals="31" coveredconditionals="21" methods="13" coveredmethods="12" elements="92" coveredelements="78" complexity="0" loc="48" ncloc="48" packages="8" files="8" classes="8"/>
+    <package name="assets">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="CloseIcon.tsx" path="C:\Users\user1\Downloads\UI-Library\src\assets\CloseIcon.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Alert">
+      <metrics statements="10" coveredstatements="9" conditionals="9" coveredconditionals="8" methods="3" coveredmethods="2"/>
+      <file name="Alert.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\Alert\Alert.tsx">
+        <metrics statements="10" coveredstatements="9" conditionals="9" coveredconditionals="8" methods="3" coveredmethods="2"/>
+        <line num="12" count="1" type="cond" truecount="2" falsecount="1"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.AuthHoc">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="AuthHoc.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\AuthHoc\AuthHoc.tsx">
+        <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Button">
+      <metrics statements="10" coveredstatements="10" conditionals="10" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="Button.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\Button\Button.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="10" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="20" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Card">
+      <metrics statements="8" coveredstatements="7" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="Card.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\Card\Card.tsx">
+        <metrics statements="8" coveredstatements="7" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Input">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Input.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\Input\Input.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Switch">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Switch.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\Switch\Switch.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Tooltip">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="Tooltip.tsx" path="C:\Users\user1\Downloads\UI-Library\src\components\Tooltip\Tooltip.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

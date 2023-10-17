@@ -1,0 +1,31 @@
+.disabled {
+   color: gray !important;
+   pointer-events: none;
+}
+
+/* .step-item {
+   @apply flex flex-col relative w-60;
+} */
+
+/* @layer utilities {
+   .bg-lightdefault {
+      --bg-opacity: 1;
+      background-color: rgba(209, 213, 219, var(--bg-opacity));
+   }
+} */
+
+.step-item:not(:first-child)::before {
+   @apply content-[''] block bg-lightdefault absolute -top-14 left-4 left-6 h-full w-0.5 border border-lightdefault;
+}
+
+.step {
+   @apply w-8 w-11 h-8 h-11 mb-2 flex items-center justify-center z-10 relative text-black text-[18px] text-[14px] bg-lightdefault rounded-full font-semibold;
+}
+
+.active .step {
+   @apply bg-primary text-white;
+}
+
+.complete .step {
+   @apply bg-success text-white;
+}
